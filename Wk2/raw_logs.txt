@@ -1,0 +1,6 @@
+My name is Shobhit.
+I am a fourth year IT student at MIT Nepal.
+I am interested in Python, Artificial Intelligence, and Machine Learning.
+I enjoy learning programming and developing software projects.
+My goal is to become an AI and Machine Learning Engineer.
+I am currently improving my skills in Python and data analysis.

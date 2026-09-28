@@ -1,0 +1,12 @@
+@"
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.env
+.env.*
+!.env.example
+"@ | Set-Content .gitignore
+# Large PostgreSQL installer
+postgresql-18.6-4-windows-x64.exe
